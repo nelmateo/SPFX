@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "web-part-lab",
+    "libraryId": "7f73717d-9b47-4c9e-ac61-42381f4b82c0",
+    "environment": "onprem"
+  }
+}

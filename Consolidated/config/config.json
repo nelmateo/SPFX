@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wpNoFrame/WpNoFrameWebPart.js",
+      "manifest": "./src/webparts/wpNoFrame/WpNoFrameWebPart.manifest.json",
+      "outputPath": "./dist/wp-no-frame-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/wpReact/WpReactWebPart.js",
+      "manifest": "./src/webparts/wpReact/WpReactWebPart.manifest.json",
+      "outputPath": "./dist/wp-react-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/wpKnockout/WpKnockoutWebPart.js",
+      "manifest": "./src/webparts/wpKnockout/WpKnockoutWebPart.manifest.json",
+      "outputPath": "./dist/wp-knockout-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "WpNoFrameWebPartStrings": "webparts/wpNoFrame/loc/{locale}.js",
+    "WpReactWebPartStrings": "webparts/wpReact/loc/{locale}.js",
+    "WpKnockoutWebPartStrings": "webparts/wpKnockout/loc/{locale}.js"
+  }
+}

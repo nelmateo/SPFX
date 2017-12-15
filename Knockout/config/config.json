@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wpKnockout/WpKnockoutWebPart.js",
+      "manifest": "./src/webparts/wpKnockout/WpKnockoutWebPart.manifest.json",
+      "outputPath": "./dist/wp-knockout-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "WpKnockoutWebPartStrings": "webparts/wpKnockout/loc/{locale}.js"
+  }
+}

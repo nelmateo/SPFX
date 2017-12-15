@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "web-part-lab-client-side-solution",
+    "id": "7f73717d-9b47-4c9e-ac61-42381f4b82c0",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/web-part-lab.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wpReact/WpReactWebPart.js",
+      "manifest": "./src/webparts/wpReact/WpReactWebPart.manifest.json",
+      "outputPath": "./dist/wp-react-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "WpReactWebPartStrings": "webparts/wpReact/loc/{locale}.js"
+  }
+}

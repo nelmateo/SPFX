@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wpNoFrame/WpNoFrameWebPart.js",
+      "manifest": "./src/webparts/wpNoFrame/WpNoFrameWebPart.manifest.json",
+      "outputPath": "./dist/wp-no-frame-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "WpNoFrameWebPartStrings": "webparts/wpNoFrame/loc/{locale}.js"
+  }
+}
